@@ -96,8 +96,8 @@ Developed by: BALAMURUGAN.K RegisterNumber: 25017932
 **RTL realization Output:** 
 
 **RTL**
+[logicgates.pdf](https://github.com/user-attachments/files/23695804/logicgates.pdf)
 
 **Result:**
-<img width="1018" height="723" alt="Screenshot 2025-11-22 122525" src="https://github.com/user-attachments/assets/b8736fcb-717e-48d4-bdf2-93a1b302cfce" />
 
 
